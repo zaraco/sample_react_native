@@ -19,7 +19,7 @@ export default class ContactScreen extends Component {
       <Container>
         <Header />
         <Content>
-          <Text style={{fontSize: 20, fontWeight: 10, color: 'blue'}}>
+          <Text style={{textAlign: 'center', marginBottom: 20, marginTop: 20, color: 'blue'}}>
             Get in touch with me
           </Text>
           <Card>
